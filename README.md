@@ -7,10 +7,10 @@ I’m currently pursuing my B.Tech in Computer Science and exploring the world o
 
 🌱 Currently Learning
 
-Programming Fundamentals
+--Programming Fundamentals
 
-Web Development Basics
+--Web Development Basics
 
-Problem Solving with C 
+--Problem Solving with C 
 
 “Every expert was once a beginner.” 🌟
